@@ -15,7 +15,7 @@ namespace WebApplicationBiruuQ1.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "hello from biruu";
+            ViewBag.Message = " I will commit";
 
             return View();
         }
